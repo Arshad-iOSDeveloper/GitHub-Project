@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Loaded only once")
+        print("Trying for merge conflict")
     }
 
 
