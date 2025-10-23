@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Loaded only once")
         print("Loading")
+        print("Trying for merge conflict")
     }
 
 
