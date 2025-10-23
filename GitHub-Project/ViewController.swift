@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("Loaded only once")
         print("Loading")
         print("Trying for merge conflict")
+        print("It is from desktop folder")
     }
 
 
